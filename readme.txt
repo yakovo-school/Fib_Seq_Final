@@ -1,5 +1,7 @@
 Hello there, and thank you for downloading Fib_Seq and I hope it is useful for your creativity!
 
+This is based off of the idea that the next midi number is the sum of the previous ones. Best to use it for recording clips. 
+
 This is coded as an "effect", not a "synth", and was only rigorously tested in FL Studio 20 and LIVE 10.1.7.
 I'm not a CS Student so if the code sucks... Let me know so I can fix it. Mainly the "effect" vs "Synth" thing for FL users.
 Also: The GUI version is only for Ableton users. It doesn't even display any information. Weird bug but whatever.
