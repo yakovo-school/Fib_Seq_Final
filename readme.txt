@@ -21,7 +21,7 @@ Do not connect the "From FL Studio" cable. In order to access the parameters, ri
 I know recording midi internally is a bitch so audio is your bet right now, unless you want to deal with some LoopMIDI driver. 
 
 The purpose is the explore generative music and have like.... 8 of these running at the same time. With as many speakers. 
-3-4 letter acronyms of substance abuse optional. 
+
 Jungle breaks mandatory. 
 
 Contact: ofoot@hotmail.com
@@ -32,6 +32,3 @@ Hail Duda
 
 Thank you's:
 Chris T., Rich T., Rob H., Eileen Y., Xenakios, buftucker.
-
-Anti-Thank-You's:
-My dad, for telling me this wouldn't work. 
